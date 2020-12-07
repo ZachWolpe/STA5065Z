@@ -12,7 +12,7 @@ Machine learning from a statistical learning theory perspective, detailing the m
 - SVM: Support Vector Machines
 - Cross Validation
 
-==========================================================================================================
+----------------------------------------------------------------------------------------------------------
 
 See my full MSc repository at:
 
